@@ -11,7 +11,7 @@ class FlowCli < Formula
   # Do not commit a real url/sha256 here; the workflow rewrites them
   # against the tag being released.
   url "https://github.com/angleto/flow/archive/refs/tags/v2.0.28.tar.gz"
-  sha256 "d0bf8396f1a6969da542e1a7c6d33b101e1a58e15e24a5ae33bf6b380fbc554d"
+  sha256 "f3388126371efa1f0bbe724f38458f2de54739f04d069fde2b638b9bb6b04c61"
   license "AGPL-3.0-or-later"
   head "https://github.com/angleto/flow.git", branch: "v2.0"
 
